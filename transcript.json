@@ -1,0 +1,151 @@
+{
+    "transcript": [
+        {
+            "created": "2025-16-03T12:00:00Z",
+            "text": "User 11c0719e-0de8-ef11-9342-00224898e451 Joined The Chat",
+            "isControlMessage": true
+        },
+        {
+            "created": "2025-16-03T12:01:00Z",
+            "text": "User 86199b06-c8f6-4baf-85ee-f192b7a981cd Joined The Chat",
+            "isControlMessage": true
+        },
+        {
+            "created": "2025-16-03T12:02:00Z",
+            "text": "Hello, welcome to Daisee!, how can I help today?",
+            "isControlMessage": false,
+            "bot": {
+                "id": "f4e10b74-f66f-403a-9684-55921bdc7169",
+                "name": ""
+            }
+        },
+        {
+            "created": "2025-16-03T12:03:00Z",
+            "text": "Hey there appears to be a problem with my coffee machine.",
+            "isControlMessage": false,
+            "customer": {
+                "id": "11c0719e-0de8-ef11-9342-00224898e451",
+                "name": "Jacob Howell"
+            }
+        },
+        {
+            "created": "2025-16-03T12:04:00Z",
+            "text": "Which part of the coffee machine appears to be the issue?",
+            "isControlMessage": false,
+            "bot": {
+                "id": "f4e10b74-f66f-403a-9684-55921bdc7169",
+                "name": ""
+            }
+        },
+        {
+            "created": "2025-16-03T12:05:00Z",
+            "text": "The steamer has stopped working, and keeps making a strange hissing sound.",
+            "isControlMessage": false,
+            "customer": {
+                "id": "11c0719e-0de8-ef11-9342-00224898e451",
+                "name": "Jacob Howell"
+            }
+        },
+        {
+            "created": "2025-16-03T12:06:00Z",
+            "text": "Thank you! I'm requesting the most appropriate human agent to assist with your issue.",
+            "isControlMessage": false,
+            "bot": {
+                "id": "f4e10b74-f66f-403a-9684-55921bdc7169",
+                "name": ""
+            }
+        },
+        {
+            "created": "2025-16-03T12:07:00Z",
+            "text": "Requested Agent",
+            "isControlMessage": true
+        },
+        {
+            "created": "2025-16-03T12:08:00Z",
+            "text": "Transferring you now.",
+            "isControlMessage": false,
+            "bot": {
+                "id": "f4e10b74-f66f-403a-9684-55921bdc7169",
+                "name": ""
+            }
+        },
+        {
+            "created": "2025-16-03T12:09:00Z",
+            "text": "User f4e10b74-f66f-403a-9684-55921bdc7169 Joined The Chat",
+            "isControlMessage": true
+        },
+        {
+            "created": "2025-16-03T12:10:00Z",
+            "text": "Hey I've seen that your having trouble with your steamer. Have you tried turning it on and off again?",
+            "isControlMessage": false,
+            "user": {
+                "id": "f4e10b74-f66f-403a-9684-55921bdc7169",
+                "name": "Charles Sengupta"
+            }
+        },
+        {
+            "created": "2025-16-03T12:11:00Z",
+            "text": "No, of course. That makes sense, I'll try now.",
+            "isControlMessage": false,
+            "customer": {
+                "id": "11c0719e-0de8-ef11-9342-00224898e451",
+                "name": "Jacob Howell"
+            }
+        },
+        {
+            "created": "2025-16-03T12:12:00Z",
+            "text": "Great, let me know how you go!",
+            "isControlMessage": false,
+            "user": {
+                "id": "f4e10b74-f66f-403a-9684-55921bdc7169",
+                "name": "Charles Sengupta"
+            }
+        },
+        {
+            "created": "2025-16-03T12:13:00Z",
+            "text": "That fixed it. Thanks!",
+            "isControlMessage": false,
+            "customer": {
+                "id": "11c0719e-0de8-ef11-9342-00224898e451",
+                "name": "Jacob Howell"
+            }
+        },
+        {
+            "created": "2025-16-03T12:14:00Z",
+            "text": "No worries, is there anything else I can help you with today?",
+            "isControlMessage": false,
+            "user": {
+                "id": "f4e10b74-f66f-403a-9684-55921bdc7169",
+                "name": "Charles Sengupta"
+            }
+        },
+        {
+            "created": "2025-16-03T12:15:00Z",
+            "text": "Hey Jacob, are you still there?",
+            "isControlMessage": false,
+            "user": {
+                "id": "f4e10b74-f66f-403a-9684-55921bdc7169",
+                "name": "Charles Sengupta"
+            }
+        },
+        {
+            "created": "2025-16-03T12:20:00Z",
+            "text": "Hey Jacob, I've not heard from you in a while, so I'll close the chat. Please reach out if you need anything else.",
+            "isControlMessage": false,
+            "user": {
+                "id": "f4e10b74-f66f-403a-9684-55921bdc7169",
+                "name": "Charles Sengupta"
+            }
+        },
+        {
+            "created": "2025-16-03T12:21:00Z",
+            "text": "User f4e10b74-f66f-403a-9684-55921bdc7169 Has Left The Chat",
+            "isControlMessage": true
+        },
+        {
+            "created": "2025-16-03T12:22:00Z",
+            "text": "Chat Closed by User f4e10b74-f66f-403a-9684-55921bdc7169",
+            "isControlMessage": true
+        }
+    ]
+}
